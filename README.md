@@ -1,2 +1,2 @@
 # DelugeRPG-Training-Guide
-DelugeRPG
+Learn the best way to train your pokemon!
